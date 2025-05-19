@@ -1,5 +1,4 @@
 Que es un staging y un repositorio
+![Staging](Images/Untitled.png)
 
-![Staging](../00GitYGitHub/Images/Untitled.png);
-
-![Repositorio](<../00GitYGitHub/Images/Untitled 1.png>) 
+![Repositoy](<Images/Untitled 1.png>)
