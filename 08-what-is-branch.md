@@ -1,12 +1,11 @@
 # What is a Branch?
 
-In Git, a branch is a lightweight movable pointer to one of the commits. It represents an independent line of development.
+En Git, una rama es un puntero móvil ligero a uno de los commits. Representa una línea de desarrollo independiente.
 
 
 ![Diagram illustrating Branch concept 1](<Images/Untitled 2.png>)
 
-
-![Diagram illustrating Branch concept 2](Images/Untitled 3.png)
+Aqui tenemos una nueva hubicacion del puntero.
 
 ![Diagram illustrating Branch concept 2](<Images/Untitled 3.png>)
 
