@@ -16,11 +16,3 @@ Aqui le hice reset hard y desaparecio el 4 commit.
 5. Ahora si quiero recuperar todo de nuevo, tengo que escribir **git checkout master**, y retorna  todo al estado ultimo.
 
 ![git log -stat](<Images/Untitled 5.png>)
-
-1. Creando otro archivo HTML con su estilos en CSS
-2. Ahora si escribo **git log —stat** me da informacion de todas las modificaciones realizadas.
-3. Ahora voy a practicar con git checkout. Voy a tomar el primer commit y escribir **git checkout** *numerocommit nombrearchivo*
-4. El archivo retorna a su primer commit.
-5. Ahora si quiero recuperar todo de nuevo, tengo que escribir **git checkout master**, y retorna  todo al estado ultimo.
-
-![git checkout](<Images/Untitled 6.png>)
