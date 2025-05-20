@@ -1,4 +1,7 @@
-Que es un staging y un repositorio
-![Staging](Images/Untitled.png)
+# Que es un staging y un repositorio <!-- Opcional: Puedes poner el título como encabezado -->
 
-![Repository](<Images/Untitled 1.png>)
+Que es un staging y un repositorio
+
+![Staging Diagram](Images/Untitled.png)
+
+![Repository Diagram](<Images/Untitled 1.png>)
