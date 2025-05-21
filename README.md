@@ -45,19 +45,3 @@ This repository is organized by topics, with each Markdown file covering a speci
 
 ```bash
 git clone https://github.com/HumbertoMachado7/git-github-mastery.git
-Use code with caution.
-Markdown
-⬅️ Back to Humberto Machado's Profile Index
-<!--
-Keywords for Searchability: Git, GitHub, Version Control, VCS, Command Line, Terminal, Repositories, Commits, Branches, Merge, Conflicts, SSH, Tags, Versions, Collaboration, Pull Requests, Forks, .gitignore, README, Git Pages, Git Rebase, Git Stash, Git Clean, Git Cherry-pick, Git Reset, Reflog, Git Grep, Platzi Course, Learning Git, Git Tutorial, Workflow, Git Commands, Remote Repositories, Branch Management, SSH Keys, Commit History, Staging Area
--->
-**Instrucciones de aplicación (para ti, no para pegar en el README):**
-
-1.  Ve a tu repositorio `https://github.com/HumbertoMachado7/git-github-mastery`.
-2.  Edita el archivo `README.md`.
-3.  Borra todo el contenido existente en el editor.
-4.  Copia el código Markdown completo que te proporcioné justo arriba (desde `# Git & GitHub Mastery...` hasta el final del comentario `-->`).
-5.  Pega este código copiado en el área de texto del editor de GitHub.
-6.  Haz commit de los cambios al final de la página.
-
----
