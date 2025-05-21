@@ -41,33 +41,9 @@ Explore the various topics covered in this collection by clicking on the links b
 
 ## How to Use
 
-This repository serves as a reference for Git and GitHub concepts. You can explore the topics by clicking the links above to read the notes directly on GitHub.
+This repository serves as a reference for Git and GitHub concepts, based on my course work. You can explore the topics by clicking the links above to read the notes directly here on GitHub.
 
-To have a local copy of these notes and examples, you can clone the repository using the command below:
+To have a local copy of these notes and examples for offline reference or practice, you can clone this repository:
 
 ```bash
 git clone https://github.com/HumbertoMachado7/git-github-mastery.git
-
-
-## How to Run the Code
-
-You can run these JavaScript files using Node.js:
-
-1.  Make sure you have Node.js installed.
-2.  Clone this repository:
-    `git clone https://github.com/HumbertoMachado7/javascript-fundamentals-exercises.git`
-3.  Navigate into the repository directory:
-    `cd javascript-fundamentals-exercises`
-4.  Run any exercise file using `node` (e.g., run `node 01valores.js`). For files that might require a web browser environment, you'd need to adapt (or mention it in the README).
-5.  If any files have dependencies listed in `package.json`, run `npm install` first.
-6.  To run test files (ending in `.test.js`), you typically need a test runner like Jest or Mocha and a command like `npm test` (if configured in `package.json`).
-
----
-
-### [⬅️ Back to Humberto Machado's Profile Index](https://github.com/HumbertoMachado7)
-
----
-
-<!--
-Keywords: JavaScript Fundamentals, JS Basics, JavaScript Exercises, Learning JavaScript, Code Examples, Platzi Course, Programming Basics, Data Types, Variables, Functions, Scope, Hoisting, Coercion, Truthy Falsy, Operators, Conditionals, Loops, Arrays, Objects, Constructor Functions, Array Methods, Node.js
--->
