@@ -45,5 +45,12 @@ This repository serves as a reference for Git and GitHub concepts, based on my c
 
 To have a local copy of these notes and examples for offline reference or practice, you can clone this repository:
 
-```bash
-git clone https://github.com/HumbertoMachado7/git-github-mastery.git
+---
+
+### [⬅️ Back to Humberto Machado's Profile Index](https://github.com/HumbertoMachado7)
+
+---
+
+<!--
+Keywords: Git, GitHub, Version Control, VCS, Command Line, Terminal, Repositories, Commits, Branches, Merge, Conflicts, SSH, Tags, Versions, Collaboration, Pull Requests, Forks, .gitignore, README, Git Pages, Git Rebase, Git Stash, Git Clean, Git Cherry-pick, Git Reset, Reflog, Git Grep, Platzi Course, Learning Git, Git Tutorial, Workflow, Git Notes, Git Castellano, Version Control Spanish, Commandos Git, Ramas Git, Pull Request Git
+-->
